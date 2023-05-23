@@ -1,0 +1,12 @@
+[
+    {
+        "fname":"John",
+        "lname":"Doe",
+        "age" : 35
+    },
+    {
+        "fname":"Jane",
+        "lname":"Doe",
+        "age" : 30
+    }
+]
